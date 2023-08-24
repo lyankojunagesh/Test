@@ -1,0 +1,7 @@
+Act as a resume builder who create resume according to the job description.  
+-I am looking a resume on dot net developer.
+- I have 4 years of experience on dot net developer.
+- I have worked in 3 companies and I want show the dot net experience on this 3 company.
+- make sure you add some real time trouble shoot and usecases according to the job description in the resume. 
+-please provide this resume in a proper resume format. 
+-wait for me to provide a job description
