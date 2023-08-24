@@ -1,0 +1,15 @@
+What is a Web API? How does it differ from a web service?
+Explain the HTTP methods commonly used in Web API and their corresponding operations.
+What are the key components of a Web API request and response?
+What is the role of HTTP status codes in Web API? Provide examples of a few commonly used status codes.
+How do you handle authentication and authorization in Web API?
+Explain the difference between SOAP and RESTful Web APIs.
+What is the role of content negotiation in Web API? How can you implement it?
+Describe the concept of routing in Web API. How do you define routes?
+What are the benefits of using attribute routing in Web API?
+How do you handle errors and exceptions in Web API? Explain the use of exception filters.
+What is the purpose of model binding in Web API? How does it work?
+How can you handle file uploads in Web API?
+Explain the concept of versioning in Web API and discuss different versioning strategies.
+What is the role of filters in Web API? Provide examples of different types of filters.
+How do you implement caching in Web API? What are the benefits?
