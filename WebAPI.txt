@@ -1,0 +1,20 @@
+01:03 – Q1. What is Web API? What is the purpose of Web API?
+02: 06 – Q2. What are Web API advantages over WCF and web serivces?
+05:31 – Q3. What is Rest and Restful?
+10:37 – Q4. Is it possible to use WCF as Restful services?
+10:52 – Q5. What are HTTP verbs or HTTP methods?
+13:06 – Q6. How to consume Web API from a .NET MVC application?
+17:07 – Q7. What is the difference between Web API and MVC Controller?
+18:25- Q8. What is Basic Authentication in Web API?
+20:11 – Q9. What is API Key Authentication in Web API?
+21:14 – Q10. What is Token based authentication?
+24:19 – Q11. What is OAuth?
+25:29 – Q12. What is JWT Authentication?
+27:06 – Q13. What are the parts of JWT token?
+30:04 – Q14. Where JWT token reside in the request?
+31:16 – Q15. How to test Web API? What are the tools?
+31:47 – Q16. What are main Return Types supported in Web API?
+32:45 – Q17. What is the difference between HTTPResponseMessage and IHttpActionResult?
+34:57 – Q18. What is Content Negotiation in Web API?
+36:48 – Q19. What is MediaTypeFormatter class in Web API?
+38:22 – Q20. What are Response Codes in Web API?
